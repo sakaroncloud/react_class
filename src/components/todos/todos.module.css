@@ -1,0 +1,19 @@
+button {
+  border: 1px solid rgb(190, 190, 190);
+  padding: 4px 6px;
+  color: gray;
+  border-radius: 2px !important;
+  cursor: pointer;
+}
+
+input {
+  border: 1px solid rgb(190, 190, 190);
+  padding: 4px 6px;
+  color: gray;
+  border-radius: 2px !important;
+}
+
+.addTodoContainer {
+  display: flex;
+  gap: 0px 2px;
+}
