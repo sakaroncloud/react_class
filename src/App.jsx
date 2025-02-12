@@ -1,5 +1,4 @@
-import { Pagination } from './components/paginations/Pagination'
-
+import { Pagination } from "./class/pagination/ClassPagination"
 
 function App() {
   return (

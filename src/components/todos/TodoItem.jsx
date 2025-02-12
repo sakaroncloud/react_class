@@ -23,6 +23,6 @@ export const TodoItem = ({ title, id, completed, onCheckTodo, onInputChange, onD
             </>
             }
             <button onClick={() => onDelete(id)} className='w-fit text-xs !py-0.5'>Delete</button>
-        </ul>
+        </ul> 
     )
 }

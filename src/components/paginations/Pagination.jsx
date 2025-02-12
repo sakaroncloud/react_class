@@ -5,7 +5,7 @@ import { UserItem } from './UserItem'
 import { PreviousNextButtons, RangePaginatedButtons } from './PaginatedButtons'
 
 export const Pagination = () => {
-    const ITEM_PER_PAGE = 3
+    const ITEM_PER_PAGE = 7
 
     const [currentPage, setCurrentPage] = useState(1)
 
